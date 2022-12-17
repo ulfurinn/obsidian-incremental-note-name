@@ -1,8 +1,8 @@
 # Incremental note names for Obsidian
 
 This is a script to help generate incrementally numbered note names, such as:
-- `ADR 013 - Use AWS SQS`,
-- `RFC862 Echo Protocol`,
+- `ADR 013 - Use AWS SQS`
+- `RFC862 Echo Protocol`
 - `[BUG-1348] Splines not reticulated`
 
 ## Requirements
